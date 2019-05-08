@@ -4,4 +4,4 @@
     
                                   A possible representation of Libft (artist’s view)
                               
-![Screenshot](files/lib.jpg)
+   ![Screenshot](files/lib.jpg)
